@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import "./IERC1155.sol";
 import "./IERC1155Receiver.sol";
 import "./IERC1155MetadataURI.sol";
-import "../34_ERC721/Address.sol";
+import "./Address.sol";
 import "../34_ERC721/String.sol";
 import "../34_ERC721/IERC165.sol";
 
